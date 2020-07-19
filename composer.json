@@ -8,7 +8,8 @@
     ],
 "autoload": {
         "psr-4": {
-            "Vehicle\\": "src/"
+            "Vehicle\\": "src/",
+            "Person\\": "src/"
         }
     },
     "require": {}
