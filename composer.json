@@ -1,0 +1,15 @@
+{
+    "name": "andoh-kessson/cars",
+    "authors": [
+        {
+            "name": "NanaDuku",
+            "email": "wandohkesson@gmail.com"
+        }
+    ],
+"autoload": {
+        "psr-4": {
+            "Vehicle\\": "src/"
+        }
+    },
+    "require": {}
+}
